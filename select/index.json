@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "チェリー",
+  "base_artist": "スピッツ",
+  "createdAt": "2025-12-19T13:14:11.689792Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "涙のスウィート・チェリー",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/01_涙のスウィート・チェリー_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "涙のスウィート・チェリー",
+      "artist": "鈴木雅之",
+      "has_synced": true,
+      "path": "select/02_涙のスウィート・チェリー_鈴木雅之.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "チェリー",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/03_チェリー_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "チェリー",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/04_チェリー_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "チェリー",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/05_チェリー_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "チェリー",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/06_チェリー_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "チェリー",
+      "artist": "BAKI",
+      "has_synced": false,
+      "path": "select/07_チェリー_BAKI.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "チェリー",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/08_チェリー_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "チェリー feat.佐々木萌 (エドガー・サリヴァン)",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/09_チェリー_feat.佐々木萌_(エドガー・サリヴァン)_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "スピッツ / チェリー",
+      "artist": "spitzclips",
+      "has_synced": true,
+      "path": "select/10_スピッツ___チェリー_spitzclips.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "チェリー - Cherry",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/11_チェリー_-_Cherry_Spitz.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "チェリー",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/12_チェリー_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "チェリー - Cherry",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/13_チェリー_-_Cherry_Spitz.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "チェリー",
+      "artist": "PUFFY",
+      "has_synced": false,
+      "path": "select/14_チェリー_PUFFY.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "チェリー",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/15_チェリー_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "チェリー",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/16_チェリー_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "チェリー",
+      "artist": "Sing Sing Rabbit",
+      "has_synced": false,
+      "path": "select/17_チェリー_Sing_Sing_Rabbit.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チェリー",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_チェリー_スピッツ.txt"
+    }
+  ]
+}
